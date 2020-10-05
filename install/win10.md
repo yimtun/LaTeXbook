@@ -5,3 +5,22 @@ texlive
 
 
 install-tl-windows.bat
+
+
+
+文档
+
+
+
+安装路径下
+
+
+
+> [file:///D:/user/texlive/2019/texmf-dist/doc/texlive/texlive-zh-cn/texlive-zh-cn.pdf](file:///D:/user/texlive/2019/texmf-dist/doc/texlive/texlive-zh-cn/texlive-zh-cn.pdf)
+
+
+
+
+
+
+
